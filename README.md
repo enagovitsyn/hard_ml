@@ -1,2 +1,2 @@
-# hard_ml
+# HardML
 For HardML course
